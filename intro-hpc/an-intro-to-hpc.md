@@ -11,7 +11,7 @@ Most HPC machine typically run a Linux Operating System and do not have a graphi
 Our University's HPC cluster is called Lyra (named after the constellation Lyra), and was manfactured by Silicon Graphics International Corp. (SGI). Originally installed in 2007 it has gone though many upgrades and currently contains approximately 4400 cpu cores.
 
 The current configuration is:
-* 218 nodes with 4368 cores
+* 218 nodes with 4368 Intel cores
   *  1 node with 32 E7-8837 cpus, 1024GB RAM
   * 16 nodes with 16 E5-2670 cpus, 256GB RAM
   * 60 nodes with 16 E5-2670 cpus, 128GB RAM
